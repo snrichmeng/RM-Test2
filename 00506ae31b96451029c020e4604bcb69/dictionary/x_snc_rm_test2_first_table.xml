@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="First Table" max_length="40" name="x_snc_rm_test2_first_table" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Col 1" max_length="40" name="col_1" type="string"/>
+        <element label="Test1 Column" max_length="40" name="test1_column" type="string"/>
     </element>
 </database>
