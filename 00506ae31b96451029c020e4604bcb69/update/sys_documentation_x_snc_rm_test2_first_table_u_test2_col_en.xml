@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_test2_col" label="Test2 Col" language="en" table="x_snc_rm_test2_first_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_test2_col</element>
+            <help/>
+            <hint/>
+            <label>Test2 Col</label>
+            <language>en</language>
+            <name>x_snc_rm_test2_first_table</name>
+            <plural>Test2 Cols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>richard.meng@snc</sys_created_by>
+            <sys_created_on>2022-04-04 19:12:32</sys_created_on>
+            <sys_id>9da78f5b1b2e4510d7cb2026624bcb15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test2 Col</sys_name>
+            <sys_package display_value="RM Test2" source="x_snc_rm_test2">00506ae31b96451029c020e4604bcb69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RM Test2">00506ae31b96451029c020e4604bcb69</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_rm_test2_first_table_u_test2_col_en</sys_update_name>
+            <sys_updated_by>richard.meng@snc</sys_updated_by>
+            <sys_updated_on>2022-04-04 19:12:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
